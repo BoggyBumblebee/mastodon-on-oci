@@ -1,6 +1,4 @@
-# Mastodon on OCI (Oracle Cloud Infrastructure)
-
-## Mastodon on OCI Terraform Template
+# Mastodon on OCI (Oracle Cloud Infrastructure) Template
 
 The purpose of this project is to lay down a complete, secure, installation of Mastodon on Oracle Cloud Infrastructure (OCI). I'm happy to accept contributions to this project. I first made sure that there wasn't anyone else doing this at the current time.
 
@@ -21,6 +19,7 @@ The services required under OCI:
 - Compute Instances
 - OKE
 - Object Storage
+- ...
 
 The Open Source components we will use:
 
@@ -28,6 +27,7 @@ The Open Source components we will use:
 - PostgreSQL
 - Redis
 - Elastic
+- ...
 
 ## Useful Links
 
