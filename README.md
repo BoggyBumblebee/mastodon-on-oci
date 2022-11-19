@@ -1,14 +1,12 @@
-# Mastodon OCI (Oracle Cloud Infrastructure)
+# Mastodon on OCI (Oracle Cloud Infrastructure)
 
-## Mastodon OCI Terraform Template
+## Mastodon on OCI Terraform Template
 
-The purpose of this project is to lay down a complete, and secure, installation of Mastodon on Oracle Cloud Infrastructure (OCI). I'm happy to accept contributions to this project, and I first made sure that there wasn't anyone else doing this at the current time.  
-
-There is a project to do the same on AWS by [Andreas Wittig](https://github.com/andreaswittig), which you can find at https://github.com/widdix/mastodon-on-aws 
+The purpose of this project is to lay down a complete, secure, installation of Mastodon on Oracle Cloud Infrastructure (OCI). I'm happy to accept contributions to this project. I first made sure that there wasn't anyone else doing this at the current time.
 
 ## Antecedents & Acknowledgments
 
-TBD
+There is a project to do the same on AWS by [Andreas Wittig](https://github.com/andreaswittig), which you can find at https://github.com/widdix/mastodon-on-aws, I've used that as a guide for this.
 
 ## Dependencies
 
